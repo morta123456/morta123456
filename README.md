@@ -52,6 +52,7 @@ My career has allowed me to explore diverse fields, from machine learning applie
 
 🔹 [Gold Price Prediction](https://github.com/morta123456/CodeClause_Gold_Price_Prediction)
 > Gold Price Analysis and Forecasting Using Regression Models.
+
 🔹 [Wine Quality Prediction](https://github.com/morta123456/Wine_Quality_Prediction)
 > Wine quality prediction from their chemical characteristics using XGBoost.
 
