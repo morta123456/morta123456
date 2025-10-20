@@ -56,6 +56,9 @@ My career has allowed me to explore diverse fields, from machine learning applie
 🔹 [Wine Quality Prediction](https://github.com/morta123456/Wine_Quality_Prediction)
 > Wine quality prediction from their chemical characteristics using XGBoost.
 
+🔹 [Stock Market Prediction](https://github.com/morta123456/Stock_Market_Prediction)
+>Stock price prediction from historical market data using XGBoost.
+
 
 ---
 
