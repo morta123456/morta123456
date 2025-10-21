@@ -59,7 +59,8 @@ My career has allowed me to explore diverse fields, from machine learning applie
 🔹 [Stock Market Prediction](https://github.com/morta123456/Stock_Market_Prediction)
 >Stock price prediction from historical market data using XGBoost.
 
-
+🔹 [Ad Campaign Budget Prediction](https://github.com/morta123456/ML_Night_Silver_Mind)
+> Machine learning pipeline for predicting advertising campaign budgets, awarded 2nd place in the ML Night competition.
 ---
 
 ## 🤝 Let’s Connect
