@@ -57,10 +57,14 @@ My career has allowed me to explore diverse fields, from machine learning applie
 > Wine quality prediction from their chemical characteristics using XGBoost.
 
 🔹 [Stock Market Prediction](https://github.com/morta123456/Stock_Market_Prediction)
->Stock price prediction from historical market data using XGBoost.
+> Stock price prediction from historical market data using XGBoost.
 
 🔹 [Ad Campaign Budget Prediction](https://github.com/morta123456/ML_Night_Silver_Mind)
 > Machine learning pipeline for predicting advertising campaign budgets, awarded 2nd place in the ML Night competition.
+
+🔹 [Sales Prediction](https://github.com/morta123456/Sales_Prediction)
+> Sales prediction from historical business data using XGBoost.
+
 ---
 
 ## 🤝 Let’s Connect
