@@ -65,6 +65,9 @@ My career has allowed me to explore diverse fields, from machine learning applie
 🔹 [Sales Prediction](https://github.com/morta123456/Sales_Prediction)
 > Sales prediction from historical business data using XGBoost.
 
+🔹 [Telecom Churn Prediction](https://github.com/morta123456/Telecom_Churn_Prediction)
+> Predicting customer churn using advanced machine learning models and a Flask web application to help telecom companies identify at-risk customers and implement proactive retention strategies.
+
 ---
 
 ## 🤝 Let’s Connect
