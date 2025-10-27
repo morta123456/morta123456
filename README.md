@@ -49,7 +49,7 @@ My career has allowed me to explore diverse fields, from machine learning applie
 ---
 
 ## 🧪 Featured Projects
-🔹 [Telecom Churn Prediction](https://github.com/morta123456/Vision_Based_Line_Following_Robot)
+🔹 [Vision Based Line Following Robot](https://github.com/morta123456/Vision_Based_Line_Following_Robot)
 > An intelligent robot that uses a camera for real-time line detection, combining computer vision and control algorithms to achieve smooth, autonomous motion without additional sensors.
 
 🔹 [Telecom Churn Prediction](https://github.com/morta123456/Telecom_Churn_Prediction)
