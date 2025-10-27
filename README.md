@@ -50,6 +50,12 @@ My career has allowed me to explore diverse fields, from machine learning applie
 
 ## 🧪 Featured Projects
 
+🔹 [Telecom Churn Prediction](https://github.com/morta123456/Telecom_Churn_Prediction)
+> Predicting customer churn using advanced machine learning models and a Flask web application to help telecom companies identify at-risk customers and implement proactive retention strategies.
+
+🔹 [Ad Campaign Budget Prediction](https://github.com/morta123456/ML_Night_Silver_Mind)
+> Machine learning pipeline for predicting advertising campaign budgets, awarded 2nd place in the ML Night competition.
+
 🔹 [Gold Price Prediction](https://github.com/morta123456/CodeClause_Gold_Price_Prediction)
 > Gold Price Analysis and Forecasting Using Regression Models.
 
@@ -59,14 +65,8 @@ My career has allowed me to explore diverse fields, from machine learning applie
 🔹 [Stock Market Prediction](https://github.com/morta123456/Stock_Market_Prediction)
 > Stock price prediction from historical market data using XGBoost.
 
-🔹 [Ad Campaign Budget Prediction](https://github.com/morta123456/ML_Night_Silver_Mind)
-> Machine learning pipeline for predicting advertising campaign budgets, awarded 2nd place in the ML Night competition.
-
 🔹 [Sales Prediction](https://github.com/morta123456/Sales_Prediction)
 > Sales prediction from historical business data using XGBoost.
-
-🔹 [Telecom Churn Prediction](https://github.com/morta123456/Telecom_Churn_Prediction)
-> Predicting customer churn using advanced machine learning models and a Flask web application to help telecom companies identify at-risk customers and implement proactive retention strategies.
 
 ---
 
